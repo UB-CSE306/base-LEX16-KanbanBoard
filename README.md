@@ -16,7 +16,7 @@ The executable produced by ```make week``` mut be called ```week```.  The invoca
 ```# 13 23 24 25 26 27 28 29```
 
 ## Preparation
-Make sure all members of your team have set up their account on [the system hosting the Kanban boards](https://webdev.cse.buffalo.edu/pmtool/scrumboard.php), and that all members of your team attend lab in person.  Your course student assistant will demo the system during lab and explain how we expect you to use it in CSE306.  If you have trouble with this consult with a TA during your regular lab time.
+Make sure all members of your team have set up their account on [the system hosting the Kanban boards](https://webdev.cse.buffalo.edu/pmtool), and that all members of your team attend lab in person.  Your course student assistant will demo the system during lab and explain how we expect you to use it in CSE306.  If you have trouble with this consult with a TA during your regular lab time.
 
 ## Process
 In addition to using the Kanban board and adding issues for the various tasks needed to complete this exercise, suitably assigned to individual team members and moved from one pipeline to the next until complete, make sure you employ good practices: TDD using Criterion, git branching, code coverage with transparent testing, etc.  If there are bugs in your code, document them with Criterion tests as well.
